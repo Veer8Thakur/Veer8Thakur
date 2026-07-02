@@ -105,14 +105,6 @@ Enterprise task management platform with drag-and-drop workflow.
 
 </p>
 
----
-
-# 🔥 Development Insights
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veer8Thakur&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Veer8Thakur&theme=tokyonight&utcOffset=5.5"/>
-</p>
 
 ---
 
