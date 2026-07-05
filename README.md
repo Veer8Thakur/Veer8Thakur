@@ -45,7 +45,7 @@ Building Reliable Software • Solving Complex Problems
 
 🏆 LeetCode Knight
 
-🧩 400+ DSA Problems Solved
+🧩 500+ DSA Problems Solved
 
 ---
 
