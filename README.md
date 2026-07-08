@@ -123,7 +123,7 @@ Enterprise task management platform with drag-and-drop workflow.
 
 🏆 LeetCode Knight
 
-💯 400+ Problems Solved
+💯 500+ Problems Solved
 
 🌍 Top 4% Globally
 
